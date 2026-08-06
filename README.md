@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Duplicate deliveries and dead letters: the retry queue behind late webhook callbacks](posts/duplicate-deliveries-and-dead-letters-the-retry-queue-behind-late-webhoo.md)
 - [Choosing a Transactional SMS Alerts API for SaaS Across the US and EU](posts/choosing-a-transactional-sms-alerts-api-for-saas-across-the-us-and-eu.md)
 - [LLM Structured JSON Extraction: Schema Validation, Parse Errors, and Retries](posts/llm-structured-json-extraction-schema-validation-parse-errors-and-retrie.md)
 - [Cheap Node.js Summarization APIs: Chunking Long Text and Estimating Token Cost](posts/cheap-node-js-summarization-apis-chunking-long-text-and-estimating-token.md)
